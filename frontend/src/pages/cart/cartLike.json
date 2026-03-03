@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1,
+    "img": "cart/cart1.PNG",
+    "name": "Nike Air Force 1 '07",
+    "tipe": "Women's Shoes",
+    "initialPrice": "RON 599.99",
+    "price": "419.99"
+  },
+  {
+    "id": 2,
+    "img": "cart/cart2.PNG",
+    "name": "Nike V5 RNR",
+    "tipe": "Women's Shoes",
+    "initialPrice": "",
+    "price": "429.99"
+  },
+  {
+    "id": 3,
+    "img": "cart/cart3.PNG",
+    "name": "Nike P-6000",
+    "tipe": "Women's Shoes",
+    "initialPrice": "RON 599.99",
+    "price": "419.99"
+  },
+  {
+    "id": 4,
+    "img": "cart/cart4.PNG",
+    "name": "Nike Court Vision Low Next Nature",
+    "tipe": "Women's Shoes",
+    "initialPrice": "RON 399.99",
+    "price": "279.99"
+  },
+  {
+    "id": 5,
+    "img": "cart/cart5.PNG",
+    "name": "Jordan Spizike Low",
+    "tipe": "Older Kids' Shoes",
+    "initialPrice": "",
+    "price": "629.99"
+  },
+  {
+    "id": 6,
+    "img": "cart/cart6.PNG",
+    "name": "Air Jordan 1 Low",
+    "tipe": "Women's Shoes",
+    "initialPrice": "",
+    "price": "649.99"
+  },
+  {
+    "id": 7,
+    "img": "cart/cart7.PNG",
+    "name": "Nike Air Force 1 '07",
+    "tipe": "Men's Shoes",
+    "initialPrice": "",
+    "price": "599.99"
+  },
+  {
+    "id": 8,
+    "img": "cart/cart8.PNG",
+    "name": "Nike Zoom Vomero 5",
+    "tipe": "Women's Shoes",
+    "initialPrice": "RON 799.99",
+    "price": "559.99"
+  },
+  {
+    "id": 9,
+    "img": "cart/cart9.PNG",
+    "name": "Nike Pro",
+    "tipe": "Women's 8cm (approx.) Shorts",
+    "initialPrice": "",
+    "price": "149.99"
+  },
+  {
+    "id": 10,
+    "img": "cart/cart10.PNG",
+    "name": "Jordan Sport",
+    "tipe": "Men's Dri-FIT Mesh Shorts",
+    "initialPrice": "",
+    "price": "199.99"
+  }
+]

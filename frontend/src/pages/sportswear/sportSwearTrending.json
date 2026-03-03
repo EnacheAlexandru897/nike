@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "img": "sportswear/sportsweartrending/sportsweartrending1.PNG",
+    "info": "Metallic Accents",
+    "name": "Air Max Moto",
+    "button": "Shop"
+  },
+  {
+    "id": 2,
+    "img": "sportswear/sportsweartrending/sportsweartrending2.PNG",
+    "info": "Engineered for the Elements",
+    "name": "Nike Tech Boreas",
+    "button": "Shop"
+  },
+  {
+    "id": 3,
+    "img": "sportswear/sportsweartrending/sportsweartrending3.PNG",
+    "info": "Built to Move Diferent",
+    "name": "Nike Tech Fleece",
+    "button": "Shop"
+  },
+  {
+    "id": 4,
+    "img": "sportswear/sportsweartrending/sportsweartrending4.PNG",
+    "info": "Engineered Traction",
+    "name": "Nike Ava Rover",
+    "button": "Shop"
+  }
+]

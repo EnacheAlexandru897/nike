@@ -1,0 +1,37 @@
+[
+  {
+    "id": 1,
+    "name": "Sportswear Shoes",
+    "text1": "GORE-TEX Trainers",
+    "text2": "HIIT Trainers",
+    "text3": "White Air Max 90s",
+    "text4": "Air Max Sale"
+  },
+  {
+    "id": 2,
+    "name": "Sportswear Clothing",
+    "text1": "Shorts",
+    "text2": "Plus Size Sportswear",
+    "text3": "Fleece Shorts",
+    "text4": "Fleece Hoodies",
+    "margin": "ml-15"
+  },
+  {
+    "id": 3,
+    "name": "Sportswear Gear",
+    "text1": "Sportswear Products",
+    "text2": "New Releases",
+    "text3": "Sportswear Accessories",
+    "text4": "Running Hats",
+    "margin": "ml-15"
+  },
+  {
+    "id": 4,
+    "name": "Featured",
+    "text1": "Swimswear",
+    "text2": "Nike Run Club",
+    "text3": "Nike Training Club",
+    "text4": "White Sports Bras",
+    "margin": "ml-15"
+  }
+]

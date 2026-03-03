@@ -1,0 +1,21 @@
+[
+  {
+    "id": 1,
+    "name": "Men",
+    "pr": "pr-8"
+  },
+  {
+    "id": 2,
+    "name": "Women",
+    "pr": "pr-8"
+  },
+  {
+    "id": 3,
+    "name": "Shoes",
+    "pr": "pr-8"
+  },
+  {
+    "id": 4,
+    "name": "Clothing"
+  }
+]

@@ -1,0 +1,39 @@
+[
+  {
+    "id": 1,
+    "img": "sportswear/sportswearicon/sportswearicon1.PNG",
+    "name": "Air Max",
+    "margin": "ml-21"
+  },
+  {
+    "id": 2,
+    "img": "sportswear/sportswearicon/sportswearicon2.PNG",
+    "name": "P-6000",
+    "margin": "ml-19"
+  },
+  {
+    "id": 3,
+    "img": "sportswear/sportswearicon/sportswearicon3.PNG",
+    "name": "Air Force 1",
+    "margin": "ml-19"
+  },
+  {
+    "id": 4,
+    "img": "sportswear/sportswearicon/sportswearicon4.PNG",
+    "name": "Shox",
+    "margin": "ml-19"
+  },
+  {
+    "id": 5,
+    "img": "sportswear/sportswearicon/sportswearicon5.PNG",
+    "name": "Air Jordan",
+    "margin": "ml-19"
+  },
+  {
+    "id": 6,
+    "img": "sportswear/sportswearicon/sportswearicon6.PNG",
+    "name": "T-90",
+    "margin": "ml-19",
+    "mr": "mr-10"
+  }
+]

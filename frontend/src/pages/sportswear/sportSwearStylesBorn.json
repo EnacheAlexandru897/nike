@@ -1,0 +1,39 @@
+[
+  {
+    "id": 1,
+    "img": "sportswear/sportswearborn/sportswearborn1.PNG",
+    "button": "Retro Running",
+    "margin": "ml-13"
+  },
+  {
+    "id": 2,
+    "img": "sportswear/sportswearborn/sportswearborn2.PNG",
+    "button": "Look Of Football",
+    "margin": "ml-3"
+  },
+  {
+    "id": 3,
+    "img": "sportswear/sportswearborn/sportswearborn3.PNG",
+    "button": "All Conditions Gear",
+    "margin": "ml-3"
+  },
+  {
+    "id": 4,
+    "img": "sportswear/sportswearborn/sportswearborn4.PNG",
+    "button": "Accessories",
+    "margin": "ml-3"
+  },
+  {
+    "id": 5,
+    "img": "sportswear/sportswearborn/sportswearborn5.PNG",
+    "button": "Court Style",
+    "margin": "ml-3"
+  },
+  {
+    "id": 6,
+    "img": "sportswear/sportswearborn/sportswearborn6.PNG",
+    "button": "Jordan",
+    "margin": "ml-3",
+    "mr": "mr-10"
+  }
+]

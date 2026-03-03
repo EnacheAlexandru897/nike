@@ -1,0 +1,33 @@
+[
+  {
+    "id": 1,
+    "img": "sportswear/sportswearstyle/sportswearstyle1.PNG",
+    "name": "Triple Black",
+    "margin": "ml-13"
+  },
+  {
+    "id": 2,
+    "img": "sportswear/sportswearstyle/sportswearstyle2.PNG",
+    "name": "Engineered Layers",
+    "margin": "ml-3"
+  },
+  {
+    "id": 3,
+    "img": "sportswear/sportswearstyle/sportswearstyle3.PNG",
+    "name": "Wrap Up",
+    "margin": "ml-3"
+  },
+  {
+    "id": 4,
+    "img": "sportswear/sportswearstyle/sportswearstyle4.PNG",
+    "name": "Suit Yourself",
+    "margin": "ml-3"
+  },
+  {
+    "id": 5,
+    "img": "sportswear/sportswearstyle/sportswearstyle5.PNG",
+    "name": "All Day Looks",
+    "margin": "ml-3",
+    "mr": "mr-10"
+  }
+]

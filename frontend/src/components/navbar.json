@@ -1,0 +1,27 @@
+[
+  {
+    "id": 1,
+    "link": "new",
+    "name": "New and Featured"
+  },
+  {
+    "id": 2,
+    "link": "men",
+    "name": "Men"
+  },
+  {
+    "id": 3,
+    "link": "women",
+    "name": "Women"
+  },
+  {
+    "id": 4,
+    "link": "kids",
+    "name": "Kids"
+  },
+  {
+    "id": 5,
+    "link": "sportswear",
+    "name": "Sportswear"
+  }
+]
