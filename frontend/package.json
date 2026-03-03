@@ -2,7 +2,7 @@
   "name": "frontend",
   "private": true,
   "version": "0.0.0",
-  "homepage": "https://github.com/EnacheAlexandru897/nike.git",
+  "homepage": "https://EnacheAlexandru897.github.io/nike",
   "type": "module",
   "scripts": {
     "dev": "vite",
